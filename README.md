@@ -1,4 +1,4 @@
-# --------------- | Task Management App | ----------------
+# --------------- |  Project Management App | ----------------
 ### ----------- MERN stack Web Application -----------
 #
 # URL
@@ -11,6 +11,8 @@
 - Delete Task
 - Start Task
 - Complete Task
+- Pending Tsk
+- Finish Task
 
 # Used packages/ technology:
 - React (VITE)
